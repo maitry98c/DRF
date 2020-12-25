@@ -1,0 +1,7 @@
+django-bootstrap4
+django-bootstrap-themes
+django-crispy-forms
+pillow
+djangorestframework
+djangorestframework-jwt
+requests
